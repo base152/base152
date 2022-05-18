@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @base152
 - 👀 I’m interested in learning to code and all things related to this field.
-- 🌱 I’m currently taking an introductory online CS course and I want to become a Software Engineer.
+- 🌱 I’m currently taking an introductory online CS course because I am looking to switch careers into Software Engineering.
 - 💞️ I’m looking to collaborate on being a part of a project suited for beginners. 
 - 📫 Email: aurelio.isidro@gmail.com
 
